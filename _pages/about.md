@@ -41,44 +41,6 @@ Skills
   * Persian: Native
   * English: Fluent
   * Arabic: Familiar
- 
-
-<div style="display: flex; gap: 40px;">
-    <div markdown="1">
-  
-  **Simulation Softwares**
-  -  COMSOL Multiphysics (CFD)
-  -  OpenFOAM: Familiar
-  -  AutoCAD: Familiar
-
-  **Programming Languages**  
-  - Python
-  - Fortran: Familiar
-  - C++: Familiar
-  - Matlab: Familiar
-  - Web Design: Familiar
-
-  </div>
-  <div markdown="1">
-  
-   **Operating Systems**  
-  - WIN
-  - Linux
-  
-  **Research Softwares**  
-  - Inkscape
-  - Mendeley
-  - Zotero
-  - Notion
-  - Obsidian
-  
-  **Typesetting**  
-  - LaTeX
-  - Microsoft Office
-  
-  **Languages**  
-  - Persian: Native
-  - English: Fluent
   - Arabic: Familiar
 
   </div>
