@@ -25,14 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Fatemeh S. Ahmadi"
   pronouns         : # example: "she/her"  
-  bio              : - "Looking for a PhD position in:"
-    - "• Microfluidics"
-    - "• Fluid Dynamics"
-    - "• Soft Condensed Matter"
-    - "• Computational Physics"
-    - "• Biophysics"
+  bio              : " MS in Condensed Matter Physics"
+  employer         : "KNToosi University of Technology"
   location         : "Tehran, Iran"
-  employer         : #"Red Brick University"
+ 
   uri              : # URL
   email            : "fatemeh.sa.ahmadi@gmail.com" 
 
