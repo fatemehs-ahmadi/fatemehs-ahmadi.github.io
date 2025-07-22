@@ -42,8 +42,3 @@ Skills
   * English: Fluent
   * Arabic: Familiar
   - Arabic: Familiar
-
-  </div>
-</div>
-
-
