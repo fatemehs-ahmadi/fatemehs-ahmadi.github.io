@@ -51,10 +51,6 @@ Skills
   -  OpenFOAM: Familiar
   -  AutoCAD: Familiar
 
-  </div>
-  
-  <div markdown="1">
-  
   **Programming Languages**  
   - Python
   - Fortran: Familiar
@@ -68,10 +64,6 @@ Skills
    **Operating Systems**  
   - WIN
   - Linux
-
-  </div>
-  
-  <div markdown="1">
   
   **Research Softwares**  
   - Inkscape
@@ -79,10 +71,6 @@ Skills
   - Zotero
   - Notion
   - Obsidian
-
-  </div>
-
-  <div markdown="1">
   
   **Typesetting**  
   - LaTeX
