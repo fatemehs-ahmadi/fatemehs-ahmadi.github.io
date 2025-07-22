@@ -25,7 +25,12 @@ author:
   avatar           : "profile.png"
   name             : "Fatemeh S. Ahmadi"
   pronouns         : # example: "she/her"  
-  bio              : "hey"
+  bio              : - "Looking for a PhD position in:"
+    - "• Microfluidics"
+    - "• Fluid Dynamics"
+    - "• Soft Condensed Matter"
+    - "• Computational Physics"
+    - "• Biophysics"
   location         : "Tehran, Iran"
   employer         : #"Red Brick University"
   uri              : # URL
