@@ -46,44 +46,58 @@ Skills
 <div style="display: flex; gap: 40px;">
     <div markdown="1">
   
-  **Technical Skills**  
-  - Python  
-  - MATLAB  
-  - CFD Simulation  
-  - LaTeX  
-  - Git & GitHub
+  **Simulation Softwares**
+  -  COMSOL Multiphysics (CFD)
+  -  OpenFOAM: Familiar
+  -  AutoCAD: Familiar
 
   </div>
   
   <div markdown="1">
   
-  **Soft Skills**  
-  - Communication, Teamwork  
-  - Problem-Solving  
-  - Adaptability  
-  - Time Management  
-  - Presentation
+  **Programming Languages**  
+  - Python
+  - Fortran: Familiar
+  - C++: Familiar
+  - Matlab: Familiar
+  - Web Design: Familiar
 
   </div>
   <div markdown="1">
   
-  **Technical Skills**  
-  - Python  
-  - MATLAB  
-  - CFD Simulation  
-  - LaTeX  
-  - Git & GitHub
+   **Operating Systems**  
+  - WIN
+  - Linux
 
   </div>
   
   <div markdown="1">
   
-  **Soft Skills**  
-  - Communication, Teamwork  
-  - Problem-Solving  
-  - Adaptability  
-  - Time Management  
-  - Presentation
+  **Research Softwares**  
+  - Inkscape
+  - Mendeley
+  - Zotero
+  - Notion
+  - Obsidian
+
+  </div>
+
+  <div markdown="1">
+  
+  **Typesetting**  
+  - LaTeX
+  - Microsoft Office
+
+  </div>
+
+  <div markdown="1">
+  
+  **Languages**  
+  - Persian: Native
+  - English: Fluent
+  - Arabic: Familiar
 
   </div>
 </div>
+
+
