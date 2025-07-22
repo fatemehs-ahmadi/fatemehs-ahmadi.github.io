@@ -21,7 +21,7 @@ Skills
 ======
 * **Simulation Softwares**
   * COMSOL Multiphysics (CFD)
-  *  Familiar: OpenFOAM, AutoCAD
+  * Familiar: OpenFOAM, AutoCAD
 * **Programming Languages**
   * Python
   * Familiar: Fortran, C++, Matlab, Web Design
@@ -75,10 +75,6 @@ Skills
   **Typesetting**  
   - LaTeX
   - Microsoft Office
-
-  </div>
-
-  <div markdown="1">
   
   **Languages**  
   - Persian: Native
