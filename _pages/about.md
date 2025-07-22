@@ -7,40 +7,39 @@ redirect_from:
   - /about.html
 ---
 
- I'm **Fatemeh S. Ahmadi**, and I'm looking for a PhD position in:
+ I'm **Fatemeh S. Ahmadi**, and I'm looking for a PhD position. I'd love to hear from you if you are hiring. Here are my research interests and skills:
+
+Research Interests
+======
 - Microfluidics  
 - Fluid Dynamics  
 - Computational Physics 
 - Soft Condensed Matter 
 - Biophysics  
 
-I'd love to hear from you if you are hiring.
-My skills are:
+Skills
+======
+* **Simulation Softwares**
+  * COMSOL Multiphysics (CFD)
+  *  Familiar: OpenFOAM, AutoCAD
+* **Programming Languages**
+  * Python
+  * Familiar: Fortran, C++, Web Design
+* **Typesetting**
+  * LaTeX
+  * Microsoft Office
+* **Operating Systems**
+  * WIN
+  * Linux
+* **Research Softwares**
+  * Inkscape
+  * Mendeley
+  * Zotero
+  * Notion
+  * Obsidian
 
- - **Simulation Softwares**
- 
- COMSOL Multiphysics (CFD)
- Familiar: OpenFOAM, AutoCAD
 
  
- - **Programming Languages**
- 
- Python
- Familiar: Fortran, C++, Web Design
-
- 
- - **Typesetting**
- 
- LaTeX, Microsoft Office
-
- 
- - **Operating Systems**
- WIN, Linux
-
- 
- - **Research Softwares**
- 
- Mendeley, Zotero, Notion, Inkscape
 
  
  - **Languages**
