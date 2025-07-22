@@ -19,7 +19,7 @@ Research Interests
 
 Skills
 ======
-* **Simulation Softwares**
+* Simulation Softwares
   * COMSOL Multiphysics (CFD)
   *  Familiar: OpenFOAM, AutoCAD
 * **Programming Languages**
@@ -50,5 +50,21 @@ Skills
 | LaTeX                  | Adaptability           |
 | Git & GitHub           | Time Management        |
 
- 
+ <div style="display: flex; gap: 40px;">
+  <ul>
+    <li>Python</li>
+    <li>MATLAB</li>
+    <li>CFD Simulation</li>
+    <li>LaTeX</li>
+    <li>Git & GitHub</li>
+  </ul>
+  <ul>
+    <li>Communication</li>
+    <li>Teamwork</li>
+    <li>Problem-Solving</li>
+    <li>Adaptability</li>
+    <li>Time Management</li>
+  </ul>
+</div>
+
  
