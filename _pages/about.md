@@ -24,7 +24,7 @@ Skills
   *  Familiar: OpenFOAM, AutoCAD
 * **Programming Languages**
   * Python
-  * Familiar: Fortran, C++, Web Design
+  * Familiar: Fortran, C++, Matlab, Web Design
 * **Typesetting**
   * LaTeX
   * Microsoft Office
@@ -42,30 +42,27 @@ Skills
   * English: Fluent
   * Arabic: Familiar
  
-<div style="display: flex; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
 
-  <div>
-    <h4>Technical Skills</h4>
-    <ul>
-      <li>Python</li>
-      <li>MATLAB</li>
-      <li>CFD Simulation</li>
-      <li>LaTeX</li>
-      <li>Git & GitHub</li>
-      <li>COMSOL Multiphysics</li>
-    </ul>
+<div style="display: flex; gap: 40px;">
+  <div markdown="1">
+  
+  **Technical Skills**  
+  - Python  
+  - MATLAB  
+  - CFD Simulation  
+  - LaTeX  
+  - Git & GitHub
+
   </div>
+  
+  <div markdown="1">
+  
+  **Soft Skills**  
+  - Communication, Teamwork  
+  - Problem-Solving  
+  - Adaptability  
+  - Time Management  
+  - Presentation
 
-  <div>
-    <h4>Soft & Transferable Skills</h4>
-    <ul>
-      <li>Communication, Teamwork, Leadership</li>
-      <li>Problem-Solving</li>
-      <li>Time Management, Self-Motivation</li>
-      <li>Presentation & Public Speaking</li>
-      <li>Adaptability</li>
-    </ul>
   </div>
-
 </div>
-
