@@ -26,7 +26,7 @@ author:
   name             : "Fatemeh S. Ahmadi"
   pronouns         : # example: "she/her"  
   bio              : " MS in Physics"
-  employer         : "KNToosi University of Technology"
+  employer         : #"KNToosi University of Technology"
   location         : "Tehran, Iran"
  
   uri              : # URL
