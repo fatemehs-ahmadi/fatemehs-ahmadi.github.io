@@ -40,7 +40,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "Fatemeh S. Ahmadi"
+  researchgate     : "https://www.researchgate.net/profile/Fatemeh S. Ahmadi"
   scopus           : # URL
 
   # Repositories and software development
@@ -53,10 +53,10 @@ author:
 
   # Social media
   artstation       : # Username
-  linkedin         : "fatemehs-ahmadi"
-  twitter          : "fatemehs-ahmadi"
-  bluesky          : "fatemehs-ahmadi" # Replace this with you Bluesky username
-  telegram         : "fatemehs-ahmadi"
+  linkedin         : "https://www.linkedin.com/fatemehs-ahmadi"
+  twitter          : "https://twitter.com/fatemehs-ahmadi"
+  bluesky          : "https://bsky.app/profile/fatemehs-ahmadi.bsk.social" # Replace this with you Bluesky username
+  telegram         : "https://web.telegram.org/fatemehs-ahmadi"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
