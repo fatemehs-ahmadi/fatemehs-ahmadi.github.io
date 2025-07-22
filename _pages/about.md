@@ -44,6 +44,27 @@ Skills
  
 
 <div style="display: flex; gap: 40px;">
+    <div markdown="1">
+  
+  **Technical Skills**  
+  - Python  
+  - MATLAB  
+  - CFD Simulation  
+  - LaTeX  
+  - Git & GitHub
+
+  </div>
+  
+  <div markdown="1">
+  
+  **Soft Skills**  
+  - Communication, Teamwork  
+  - Problem-Solving  
+  - Adaptability  
+  - Time Management  
+  - Presentation
+
+  </div>
   <div markdown="1">
   
   **Technical Skills**  
