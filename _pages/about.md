@@ -37,13 +37,18 @@ Skills
   * Zotero
   * Notion
   * Obsidian
-
+* **Languages**
+  * Persian: Native
+  * English: Fluent
+  * Arabic: Familiar
+ 
+ | Technical Skills       | Soft Skills            |
+|------------------------|------------------------|
+| Python                 | Communication          |
+| MATLAB                 | Teamwork               |
+| CFD Simulation         | Problem-Solving        |
+| LaTeX                  | Adaptability           |
+| Git & GitHub           | Time Management        |
 
  
-
  
- - **Languages**
- 
- Persian: Native
- English: Fluent
- Arabic: Familiar
