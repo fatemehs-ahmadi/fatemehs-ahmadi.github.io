@@ -22,10 +22,15 @@ repository               : "fatemehs-ahmadi/fatemehs-ahmadi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "profile.png"
   name             : "Fatemeh S. Ahmadi"
   pronouns         : # example: "she/her"  
-  bio              : "Looking for a PhD position in: Fluid Dynamics, Soft Condensed Matter, Computational Physics, biophysics, microfluidics"
+  bio              : "    - "Looking for a PhD position in:"
+    - "• Microfluidics"
+    - "• Fluid Dynamics"
+    - "• Soft Condensed Matter"
+    - "• Computational Physics"
+    - "• Biophysics"
   location         : "Tehran, Iran"
   employer         : #"Red Brick University"
   uri              : # URL
