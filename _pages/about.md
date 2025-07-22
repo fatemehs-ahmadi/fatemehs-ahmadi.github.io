@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- I'm **Fatemeh S. Ahmadi**, and I'm looking for a PhD position. I'd love to hear from you if you are hiring. Here are my research interests and skills:
+ I'm **Fatemeh S. Ahmadi**, and I am currently looking for a PhD position. I would love to hear from you if you are hiring. Here are my research interests and skills:
 
 Research Interests
 ======
@@ -41,4 +41,3 @@ Skills
   * Persian: Native
   * English: Fluent
   * Arabic: Familiar
-  - Arabic: Familiar
