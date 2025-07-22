@@ -53,7 +53,10 @@ author:
 
   # Social media
   artstation       : # Username
+  linkedin         : "fatemehs-ahmadi"
+  twitter          : "fatemehs-ahmadi"
   bluesky          : "fatemehs-ahmadi" # Replace this with you Bluesky username
+  telegram         : "fatemehs-ahmadi"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -62,15 +65,12 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "fatemehs-ahmadi"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "fatemehs-ahmadi"
   tumblr           : # Username
-  twitter          : "fatemehs-ahmadi"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
