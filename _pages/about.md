@@ -15,33 +15,35 @@ redirect_from:
 - Biophysics  
 
 I'd love to hear from you if you are hiring.
-I have learned these skills throughout my education:
+My skills are:
 
- **Simulation Softwares**
+ - **Simulation Softwares**
  
- COMSOLMultiphysics (CFD)
+ COMSOL Multiphysics (CFD)
  Familiar: OpenFOAM, AutoCAD
 
  
- **Programming Languages**
+ - **Programming Languages**
  
  Python
  Familiar: Fortran, C++, Web Design
 
  
- **Typesetting**
+ - **Typesetting**
  
  LaTeX, Microsoft Office
- • Operating Systems:
+
+ 
+ - **Operating Systems**
  WIN, Linux
 
  
- **Research Softwares**
+ - **Research Softwares**
  
  Mendeley, Zotero, Notion, Inkscape
 
  
- **Languages**
+ - **Languages**
  
  Persian: Native
  English: Fluent
