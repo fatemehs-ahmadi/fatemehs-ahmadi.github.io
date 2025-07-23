@@ -39,7 +39,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Experience
+Experiences
 ======
 **Research Experience**
 
