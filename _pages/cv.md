@@ -110,7 +110,7 @@ References
 ======
   Available upon request.
   
-Intrests
+Interests
 ======
  * Lifelong Learning:
    * Physics
