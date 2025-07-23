@@ -39,8 +39,10 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Research Experience
+Experience
 ======
+**Research Experience**
+
 * **Particle Deformation in Microfluidic Channel**????? – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
   * Guidance on master’s thesis development and research methodologies.
   * Troubleshooting and optimizing computer problems and simulations.
@@ -50,8 +52,8 @@ Research Experience
   * Analyzing 60 papers in 3 days to meet a critical deadline.
   * Contributed by summarizing and categorizing relevant findings.
  
-Voluntary Work
-======
+**Voluntary Work**
+
 * **Accountant** – Local Pre-school, Tehran, Iran. (Sep. 2021 – Apr. 2022)
   * Designed spreadsheets to track financial data, ensuring accuracy and organization.
   * Prepared detailed financial reports to communicate budgetary performance.
@@ -83,8 +85,8 @@ Skills
   * English: Fluent
   * Arabic: Familiar
 
-Courses
-======
+**Courses**
+
  * **Machine Learning Scientist in Python**
    * Jan. 2025
    * datacamp.com
