@@ -106,25 +106,25 @@ Courses
    * 2022 – PRESENT
    * Seminar Series (tlm-cambridge.blog)
 
+References
+======
+  Available upon request.
+  
 Intrests
 ======
  * Lifelong Learning:
    * Physics
-   * biology
-   * math
-   * languages
+   * Biology
+   * Math
+   * Languages
  * Literature and Media
    * Analyzing and critiquing mystery, sci-fi, and psychological genres.
  * Other:
    * Cycling
-   football
-   running
-   hiking
-   chess
-   computer games
-   Traveling and exploring cultures
-   Pet caring (chicks, turtles, and parrots)
-
-References
-======
-  Available upon request.
+   * Football
+   * Running
+   * Hiking
+   * Chess
+   * Computer games
+   * Traveling and exploring cultures
+   * Pet caring (chicks, turtles, and parrots)
