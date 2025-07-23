@@ -11,19 +11,19 @@ main:
     url: /about/#Education
     
   - title: "Publications"
-    url: /about.html/#Publications
+    url: /about/#Publications
 
   - title: "Talks"
-    url: /about.html/#Talks
+    url: /about/#Talks
 
   - title: "Research Experiences"
-    url: /about.html/#ResearchExperiences 
+    url: /about/#ResearchExperiences 
 
   - title: "Skills"
-    url: /about.html/#Skills
+    url: /about/#Skills
 
   - title: "Courses"
-    url: /about.html/#Courses
+    url: /about/#Courses
     
   - title: "Portfolio"
     url: /portfolio/  
