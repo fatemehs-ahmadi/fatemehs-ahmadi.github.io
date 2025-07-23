@@ -19,13 +19,14 @@ main:
   - title: "Talks"
     url: /about.html/#Talks
 
-  - title: "Experiences"
-    url: /about.html/#ResearchExperience 
-    url: /about.html/#VoluntaryWork
+  #- title: "Experiences"
+    #url: /about.html/#ResearchExperience 
+    #url: /about.html/#VoluntaryWork
 
-  - title: "Skills"
-    url: /about.html/#Skills
-    url: /about.html/#Courses
+  #- title: "Skills"
+   # url: /about.html/#Skills
+   # url: /about.html/#Courses
+<h2 id="Skills">Skills & Courses</h2>
 
   - title: "Extracurriculars"
     url: /about.html/#Extracurriculars    
