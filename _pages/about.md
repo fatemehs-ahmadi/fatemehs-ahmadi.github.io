@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-layout: archive
 I'm **Fatemeh S. Ahmadi**, and I am currently looking for a PhD position. I would love to hear from you if you are hiring. Here is my curriculum vitae:
 
 
@@ -58,8 +57,6 @@ Voluntary Work
   * Prepared detailed financial reports to communicate budgetary performance.
 * **Founder and member of the Physics scientific association** – Shahed University, Tehran, Iran. (Sep. 2017 – Sep. 2018)
 * **Private physics tutor** – Local institute, Tehran, Iran. (2016)
-
-<h2 id="SkillsAndCourses">Skills & Courses</h2>
 
 Skills
 ======
