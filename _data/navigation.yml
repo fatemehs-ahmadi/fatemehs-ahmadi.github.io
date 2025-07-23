@@ -6,8 +6,6 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
-
-
 main:
   - title: "Research Interests"
     url: /about.html/#ResearchInterests   
@@ -21,7 +19,7 @@ main:
   - title: "Talks"
     url: /about.html/#Talks
 
-   - title: "Research Experience"
+  - title: "Research Experience"
     url: /about.html/#ResearchExperience 
 
   - title: "Voluntary Work"
@@ -30,14 +28,15 @@ main:
   - title: "Skills"
     url: /about.html/#Skills
     
-   - title: "Courses"
+  - title: "Courses"
     url: /about.html/#Courses 
 
-    - title: "Interests"
+  - title: "Interests"
     url: /about.html/#Interests    
- 
-    - title: "Portfolio"
+
+  - title: "Portfolio"
     url: /portfolio/  
+
   # - title: "CV"
   #   url: /cv-json/
     
