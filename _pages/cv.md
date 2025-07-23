@@ -1,4 +1,4 @@
----
+<!---
 layout: archive
 title: "Hello There!"
 permalink: /cv/
@@ -7,3 +7,4 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+-->
