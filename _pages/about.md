@@ -8,8 +8,7 @@ redirect_from:
 ---
 I'm **Fatemeh S. Ahmadi**, and I am currently looking for a PhD position. I would love to hear from you if you are hiring. Here is my curriculum vitae:
 
-
-Research Interests
+Research Interests {#ResearchInterests}
 ======
 - Microfluidics  
 - Fluid Dynamics  
@@ -39,9 +38,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Experiences
+Research Experience
 ======
-**Research Experience**
 
 * **Particle Deformation in Microfluidic Channel**????? – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
   * Guidance on master’s thesis development and research methodologies.
@@ -51,16 +49,8 @@ Experiences
 * **Medical Applications of Laser** – Informal Contribution as a research Assistant. (May 2021)
   * Analyzing 60 papers in 3 days to meet a critical deadline.
   * Contributed by summarizing and categorizing relevant findings.
- 
-**Voluntary Work**
 
-* **Accountant** – Local Pre-school, Tehran, Iran. (Sep. 2021 – Apr. 2022)
-  * Designed spreadsheets to track financial data, ensuring accuracy and organization.
-  * Prepared detailed financial reports to communicate budgetary performance.
-* **Founder and member of the Physics scientific association** – Shahed University, Tehran, Iran. (Sep. 2017 – Sep. 2018)
-* **Private physics tutor** – Local institute, Tehran, Iran. (2016)
-
-Skills
+Skills & Courses
 ======
 * **Simulation Softwares**
   * COMSOL Multiphysics (CFD)
@@ -105,6 +95,15 @@ Skills
  * **Theory of Living Matter**
    * 2022 – PRESENT
    * Seminar Series (tlm-cambridge.blog)
+
+Voluntary Work
+======
+
+* **Accountant** – Local Pre-school, Tehran, Iran. (Sep. 2021 – Apr. 2022)
+  * Designed spreadsheets to track financial data, ensuring accuracy and organization.
+  * Prepared detailed financial reports to communicate budgetary performance.
+* **Founder and member of the Physics scientific association** – Shahed University, Tehran, Iran. (Sep. 2017 – Sep. 2018)
+* **Private physics tutor** – Local institute, Tehran, Iran. (2016)
 
 References
 ======
