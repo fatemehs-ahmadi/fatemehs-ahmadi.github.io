@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "CV"
+title: "Hello There!"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 {% include base_path %}
+
+I'm **Fatemeh S. Ahmadi**, and I am currently looking for a PhD position. I would love to hear from you if you are hiring. Here is my curriculum vitae:
+
 
 Education
 ======
@@ -18,13 +21,13 @@ Education
 * **BS in Physics** – [Shahed University](https://en.shahed.ac.ir/), Tehran, Iran (Sep. 2016 – Jul. 2021)
   * GPA: 15.39/20 (3.08/4.0)
 
-## Publications {#Publications}
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Research Interests {#ResearchInterests}
+Research Interests
 ======
 - Microfluidics  
 - Fluid Dynamics  
@@ -32,7 +35,7 @@ Education
 - Soft Condensed Matter 
 - Biophysics  
 
-## Skills {#Skills}
+Skills
 ======
 * **Simulation Softwares**
   * COMSOL Multiphysics (CFD)
@@ -57,13 +60,13 @@ Education
   * English: Fluent
   * Arabic: Familiar
 
-## Talks {#Talks} 
+Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-## Research Experience {#ResearchExperience} 
+Research Experience
 ======
 * **Particle Deformation in Microfluidic Channel**????????? (Aug. 2024 – Jan. 2025 – Mentored a junior physics MS student)
   * Guidance on master’s thesis development and research methodologies.
