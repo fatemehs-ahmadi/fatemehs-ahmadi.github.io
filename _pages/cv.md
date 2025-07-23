@@ -7,17 +7,8 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
-  <a href="#Education"><button style="padding: 8px 16px;">Education</button></a>
-  <a href="#Publications"><button style="padding: 8px 16px;">Publications</button></a>
-  <a href="#ResearchInterests"><button style="padding: 8px 16px;">ResearchInterests</button></a>
-  <a href="#Skills"><button style="padding: 8px 16px;">Skills</button></a>
-  <a href="#Talks"><button style="padding: 8px 16px;">Talks</button></a>
-  <a href="#ResearchExperience"><button style="padding: 8px 16px;">ResearchExperience</button></a>
-</div>
 
-
-## Education {#Education}
+Education
 ======
 * **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb.2024)
   * GPA: 17.6/20 (3.79/4.0)
