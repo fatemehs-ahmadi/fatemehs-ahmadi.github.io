@@ -109,7 +109,7 @@ References
 ======
   Available upon request.
   
-Interests
+Extracurriculars
 ======
  * Lifelong Learning:
    * Physics
