@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Hello There!"
 author_profile: true 
