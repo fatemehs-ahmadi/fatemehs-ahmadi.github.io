@@ -19,20 +19,16 @@ main:
   - title: "Talks"
     url: /about.html/#Talks
 
-  - title: "Research Experience"
+  - title: "Experiences"
     url: /about.html/#ResearchExperience 
-
-  - title: "Voluntary Work"
     url: /about.html/#VoluntaryWork
 
   - title: "Skills"
     url: /about.html/#Skills
-    
-  - title: "Courses"
-    url: /about.html/#Courses 
+    url: /about.html/#Courses
 
-  - title: "Interests"
-    url: /about.html/#Interests    
+  - title: "Extracurriculars"
+    url: /about.html/#Extracurriculars    
 
   - title: "Portfolio"
     url: /portfolio/  
