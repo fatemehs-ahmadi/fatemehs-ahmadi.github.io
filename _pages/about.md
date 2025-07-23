@@ -38,7 +38,9 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+<h2 id="ResearchExperienceAndVoluntaryWork">Experiences</h2>
+
 Research Experience
 ======
 * **Particle Deformation in Microfluidic Channel**????? – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
@@ -57,6 +59,8 @@ Voluntary Work
   * Prepared detailed financial reports to communicate budgetary performance.
 * **Founder and member of the Physics scientific association** – Shahed University, Tehran, Iran. (Sep. 2017 – Sep. 2018)
 * **Private physics tutor** – Local institute, Tehran, Iran. (2016)
+
+<h2 id="SkillsAndCourses">Skills & Courses</h2>
 
 Skills
 ======
