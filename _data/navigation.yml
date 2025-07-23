@@ -26,7 +26,8 @@ main:
   #- title: "Skills"
    # url: /about.html/#Skills
    # url: /about.html/#Courses
-<h2 id="Skills">Skills & Courses</h2>
+<h2 id="SkillsAndCourses">Skills</h2>
+
 
   - title: "Extracurriculars"
     url: /about.html/#Extracurriculars    
