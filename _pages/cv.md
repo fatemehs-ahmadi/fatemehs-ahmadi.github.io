@@ -68,15 +68,12 @@ Talks
   
 Research experience
 ======
- * Particle Deformation in Microfluidic Channel?????????????????????????
- AUG2024–JAN 2025– Mentored a junior physics MS student
-  • Guidance on master’s thesis development and research methodologies.
-  • Troubleshooting and optimizing computer problems and simulations.
- * Particle Shape effect on its Motion in Microfluidic Channel
- MAY 2022– Seminar course (perfect grade of 20/20)
-  • Aliterature review to identify key research trends for my thesis
- * Medical Applications of Laser
- MAY 2021– Informal Contribution as a research Assistant
-  • Analyzing 60 papers in 3 days to meet a critical deadline.
-  • Contributed by summarizing and categorizing relevant findings.
+* Particle Deformation in Microfluidic Channel???????????????????????? (AUG. 2024 – JAN. 2025 – Mentored a junior physics MS student)
+  * Guidance on master’s thesis development and research methodologies.
+  * Troubleshooting and optimizing computer problems and simulations.
+* Particle Shape effect on its Motion in Microfluidic Channel (MAY. 2022 – Seminar course (perfect grade of 20/20))
+  * A literature review to identify key research trends for my thesis
+* Medical Applications of Laser (MAY. 2021– Informal Contribution as a research Assistant)
+  * Analyzing 60 papers in 3 days to meet a critical deadline.
+  * Contributed by summarizing and categorizing relevant findings.
 
