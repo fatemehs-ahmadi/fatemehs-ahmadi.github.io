@@ -9,31 +9,31 @@
 
 main:
   - title: "Research Interests"
-    url: /cv/#ResearchInterests   
+    url: /about/#ResearchInterests   
 
   - title: "Education"
-    url: /cv/#Education
+    url: /about/#Education
     
   - title: "Publications"
-    url: /cv/#Publications
+    url: /about/#Publications
 
   - title: "Talks"
-    url: /cv/#Talks
+    url: /about/#Talks
 
    - title: "Research Experience"
-    url: /cv/#ResearchExperience 
+    url: /about/#ResearchExperience 
 
   - title: "Voluntary Work"
-    url: /cv/#VoluntaryWork
+    url: /about/#VoluntaryWork
 
   - title: "Skills"
-    url: /cv/#Skills
+    url: /about/#Skills
     
    - title: "Courses"
-    url: /cv/#Courses 
+    url: /about/#Courses 
 
     - title: "Interests"
-    url: /cv/#Interests    
+    url: /about/#Interests    
  
     - title: "Portfolio"
     url: /portfolio/  
