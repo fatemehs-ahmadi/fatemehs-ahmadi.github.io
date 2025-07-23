@@ -11,6 +11,14 @@ redirect_from:
 I'm **Fatemeh S. Ahmadi**, and I am currently looking for a PhD position. I would love to hear from you if you are hiring. Here is my curriculum vitae:
 
 
+Research Interests
+======
+- Microfluidics  
+- Fluid Dynamics  
+- Computational Physics 
+- Soft Condensed Matter 
+- Biophysics
+
 Education
 ======
 * **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb.2024)
@@ -26,14 +34,31 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Research Interests
+
+Talks
 ======
-- Microfluidics  
-- Fluid Dynamics  
-- Computational Physics 
-- Soft Condensed Matter 
-- Biophysics  
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Research Experience
+======
+* **Particle Deformation in Microfluidic Channel**????????? (Aug. 2024 – Jan. 2025 – Mentored a junior physics MS student)
+  * Guidance on master’s thesis development and research methodologies.
+  * Troubleshooting and optimizing computer problems and simulations.
+* **Particle Shape effect on its Motion in Microfluidic Channel** (May 2022 – Seminar course (perfect grade of 20/20))
+  * A literature review to identify key research trends for my thesis
+* **Medical Applications of Laser** (May 2021– Informal Contribution as a research Assistant)
+  * Analyzing 60 papers in 3 days to meet a critical deadline.
+  * Contributed by summarizing and categorizing relevant findings.
+ 
+Voluntary Work
+======
+* **Accountant**– Local Pre-school, Tehran, Iran. (Sep. 2021 – Apr. 2022)
+  * Designed spreadsheets to track financial data, ensuring accuracy and organization.
+  * Prepared detailed financial reports to communicate budgetary performance.
+* **Founder and member of the Physics scientific association** – Shahed University, Tehran, Iran. (Sep. 2017 – Sep. 2018)
+* **Private physics tutor** – Local institute, Tehran, Iran
 
 Skills
 ======
@@ -60,20 +85,23 @@ Skills
   * English: Fluent
   * Arabic: Familiar
 
-Talks
+Courses
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Research Experience
-======
-* **Particle Deformation in Microfluidic Channel**????????? (Aug. 2024 – Jan. 2025 – Mentored a junior physics MS student)
-  * Guidance on master’s thesis development and research methodologies.
-  * Troubleshooting and optimizing computer problems and simulations.
-* **Particle Shape effect on its Motion in Microfluidic Channel** (May 2022 – Seminar course (perfect grade of 20/20))
-  * A literature review to identify key research trends for my thesis
-* **Medical Applications of Laser** (May 2021– Informal Contribution as a research Assistant)
-  * Analyzing 60 papers in 3 days to meet a critical deadline.
-  * Contributed by summarizing and categorizing relevant findings.
+ * **Machine Learning Scientist in Python**
+ Jan. 2025– datacamp.com
+ * **Data Analyst in Python**
+ Dec. 2024 – datacamp.com
+ * **Molecular Foundations of Medicine**
+ Nov. 2024– StanfordOnline (edX.org)
+ * **Improve Your English Communication Skills Specialization**
+ Oct. 2024 – Georgia Institute of Technology (coursera.org)
+ * **English Grammar and Style**
+ Sep. 2024 – The University of Queensland (edX.org)
+ * **Theory of Living Matter**
+ 2022 – PRESENT – Seminar Series (tlm-cambridge.blog)
 
+ INTERESTS
+ ======
+ * Lifelong Learning: Physics, biology, math and languages.
+ * Literature and Media: Analyzing and critiquing mystery, sci-fi, and psychological genres.
+ * Other: Cycling, football, running, hiking, chess, and computer games. Traveling and exploring cultures. Pet caring (chicks, turtles, and parrots)
