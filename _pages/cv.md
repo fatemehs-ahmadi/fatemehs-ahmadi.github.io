@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology]([https://example.com](https://en.kntu.ac.ir/)), Tehran, Iran. (OCT. 2021 – FEB.2024)
+* **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (OCT. 2021 – FEB.2024)
   * GPA: 17.6/20 (3.79/4.0)
   * Thesis title: *Investigation of particle geometry and inhomogeneity on the dynamics in microfluidic domains.*
   * Supervisor: [Dr. H. Hamzehpour](https://scholar.google.com/citations?user=xM-0K-UAAAAJ&hl=en&oi=ao), Advisor: [Dr. R. Shaebani](https://scholar.google.com/citations?user=h3n1yp8AAAAJ&hl=en&oi=ao)
