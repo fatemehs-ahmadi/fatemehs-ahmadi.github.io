@@ -23,11 +23,12 @@ main:
     #url: /about.html/#ResearchExperience 
     #url: /about.html/#VoluntaryWork
 
-  #- title: "Skills"
-   # url: /about.html/#Skills
-   # url: /about.html/#Courses
-- title: "Skills"
-  url: /about.html/#SkillsAndCourses
+  - title: "Skills"
+    url: /about.html/#Skills
+    
+  - title: "Skills"
+    url: /about.html/#Courses
+
 
 
   - title: "Extracurriculars"
