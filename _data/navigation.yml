@@ -20,13 +20,7 @@ main:
     url: /about.html/#ResearchExperiences 
 
   - title: "Skills"
-    url: /about.html/#Skills&Courses
-    
-  - title: "Voluntary Works"
-    url: /about.html/#VoluntaryWorks
-    
-  - title: "Extracurriculars"
-    url: /about.html/#Extracurriculars    
+    url: /about.html/#Skills&Courses 
 
   - title: "Portfolio"
     url: /portfolio/  
