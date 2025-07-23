@@ -8,19 +8,19 @@
 #      Markdown formatted page while the second is generated using JSON.
 main:
   - title: "Education"
-    url: /about.html/#Education
+    url: /about/#Education
     
   - title: "Publications"
-    url: /about.html/#Publications
+    url: /about/#Publications
 
   - title: "Talks"
-    url: /about.html/#Talks
+    url: /about/#Talks
 
   - title: "Research Experiences"
-    url: /about.html/#ResearchExperiences 
+    url: /about/#ResearchExperiences 
 
   - title: "Skills"
-    url: /about.html/#Skills&Courses 
+    url: /about/#Skills&Courses 
 
   - title: "Portfolio"
     url: /portfolio/  
