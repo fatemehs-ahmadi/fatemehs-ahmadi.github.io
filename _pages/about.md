@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% include base_path %}
 
 I'm **Fatemeh S. Ahmadi**, and I am currently looking for a PhD position. I would love to hear from you if you are hiring. Here is my curriculum vitae:
 
