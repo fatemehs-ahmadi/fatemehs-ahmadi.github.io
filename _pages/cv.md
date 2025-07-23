@@ -6,10 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
-Education
+## Education {#Education}
 ======
 * **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb.2024)
   * GPA: 17.6/20 (3.79/4.0)
@@ -19,13 +18,13 @@ Education
 * **BS in Physics** – [Shahed University](https://en.shahed.ac.ir/), Tehran, Iran (Sep. 2016 – Jul. 2021)
   * GPA: 15.39/20 (3.08/4.0)
 
-Publications
+## Publications {#Publications}
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Research Interests
+## Research Interests {#ResearchInterests}
 ======
 - Microfluidics  
 - Fluid Dynamics  
@@ -33,7 +32,7 @@ Research Interests
 - Soft Condensed Matter 
 - Biophysics  
 
-Skills
+## Skills {#Skills}
 ======
 * **Simulation Softwares**
   * COMSOL Multiphysics (CFD)
@@ -58,15 +57,13 @@ Skills
   * English: Fluent
   * Arabic: Familiar
 
-
-  
-Talks
+## Talks {#Talks} 
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Research Experience
+## Research Experience {#ResearchExperience} 
 ======
 * **Particle Deformation in Microfluidic Channel**????????? (Aug. 2024 – Jan. 2025 – Mentored a junior physics MS student)
   * Guidance on master’s thesis development and research methodologies.
