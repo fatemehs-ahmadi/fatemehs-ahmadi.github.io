@@ -7,6 +7,15 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+<div style="display: flex; gap: 15px; flex-wrap: wrap; margin-bottom: 20px;">
+  <a href="#Education"><button style="padding: 8px 16px;">Education</button></a>
+  <a href="#Publications"><button style="padding: 8px 16px;">Publications</button></a>
+  <a href="#ResearchInterests"><button style="padding: 8px 16px;">ResearchInterests</button></a>
+  <a href="#Skills"><button style="padding: 8px 16px;">Skills</button></a>
+  <a href="#Talks"><button style="padding: 8px 16px;">Talks</button></a>
+  <a href="#ResearchExperience"><button style="padding: 8px 16px;">ResearchExperience</button></a>
+</div>
+
 
 ## Education {#Education}
 ======
