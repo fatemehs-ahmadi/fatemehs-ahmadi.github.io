@@ -10,31 +10,31 @@
 
 main:
   - title: "Research Interests"
-    url: /about/#ResearchInterests   
+    url: /about.html/#ResearchInterests   
 
   - title: "Education"
-    url: /about/#Education
+    url: /about.html/#Education
     
   - title: "Publications"
-    url: /about/#Publications
+    url: /about.html/#Publications
 
   - title: "Talks"
-    url: /about/#Talks
+    url: /about.html/#Talks
 
    - title: "Research Experience"
-    url: /about/#ResearchExperience 
+    url: /about.html/#ResearchExperience 
 
   - title: "Voluntary Work"
-    url: /about/#VoluntaryWork
+    url: /about.html/#VoluntaryWork
 
   - title: "Skills"
-    url: /about/#Skills
+    url: /about.html/#Skills
     
    - title: "Courses"
-    url: /about/#Courses 
+    url: /about.html/#Courses 
 
     - title: "Interests"
-    url: /about/#Interests    
+    url: /about.html/#Interests    
  
     - title: "Portfolio"
     url: /portfolio/  
