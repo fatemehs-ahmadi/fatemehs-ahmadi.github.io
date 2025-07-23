@@ -66,7 +66,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Research experience
+Research Experience
 ======
 * **Particle Deformation in Microfluidic Channel**????????? (Aug. 2024 – Jan. 2025 – Mentored a junior physics MS student)
   * Guidance on master’s thesis development and research methodologies.
