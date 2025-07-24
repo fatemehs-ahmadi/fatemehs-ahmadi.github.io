@@ -8,22 +8,22 @@
 #      Markdown formatted page while the second is generated using JSON.
 main:
   - title: "Education"
-    url: /about/#education
+    url: /about.html/#education
     
   - title: "Publications"
-    url: /about/#publications
+    url: /about.html/#publications
 
   - title: "Talks"
-    url: https://github.com/fatemehs-ahmadi/fatemehs-ahmadi.github.io/blob/master/_pages/about.md#talks
+    url: /about.html/#talks
 
   - title: "Research Experiences"
-    url: /about/#research-experiences 
+    url: /about.html/#research-experiences 
 
   - title: "Skills"
-    url: /about/#skills
+    url: /about.html/#skills
 
   - title: "Courses"
-    url: /about/#courses
+    url: /about.html/#courses
     
   - title: "Portfolio"
     url: /portfolio/  
