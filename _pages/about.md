@@ -50,7 +50,7 @@ Research Experiences
   * Analyzing 60 papers in 3 days to meet a critical deadline.
   * Contributed by summarizing and categorizing relevant findings.
 
-Skills
+Skills {#skills}
 ======
 * **Simulation Softwares**
   * COMSOL Multiphysics (CFD)
