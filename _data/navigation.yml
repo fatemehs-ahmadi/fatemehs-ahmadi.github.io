@@ -14,7 +14,7 @@ main:
     url: /about/#publications
 
   - title: "Talks"
-    url: /about/#talks
+    url: https://github.com/fatemehs-ahmadi/fatemehs-ahmadi.github.io/blob/master/_pages/about.md#talks
 
   - title: "Research Experiences"
     url: /about/#research-experiences 
