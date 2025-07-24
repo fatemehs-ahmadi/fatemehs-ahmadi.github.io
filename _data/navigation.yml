@@ -14,16 +14,16 @@ main:
     url: /about/#publications
 
   - title: "Talks"
-    url: /about/#Talks
+    url: /about/#talks
 
   - title: "Research Experiences"
-    url: /about/#ResearchExperiences 
+    url: /about/#research-experiences 
 
   - title: "Skills"
-    url: /about/#Skills
+    url: /about/#skills
 
   - title: "Courses"
-    url: /about/#Courses
+    url: /about/#courses
     
   - title: "Portfolio"
     url: /portfolio/  
