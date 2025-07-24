@@ -52,9 +52,8 @@ Research Experiences
   * Analyzing 60 papers in 3 days to meet a critical deadline.
   * Contributed by summarizing and categorizing relevant findings.
 
-##Skills {#skills}
+Skills
 ======
-0.
 * **Simulation Softwares**
   * COMSOL Multiphysics (CFD)
   * Familiar: OpenFOAM, AutoCAD
