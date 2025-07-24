@@ -11,10 +11,10 @@ main:
     url: /about.html/#education
     
   - title: "Publications"
-    url: /about.html/#publications
+    url: /publication/2024-02-17-paper-title-number-4
 
   - title: "Talks"
-    url: /about.html/#talks
+    url: talks/2014-03-01-talk-3
 
   - title: "Research Experiences"
     url: /about.html/#research-experiences 
