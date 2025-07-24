@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 permalink: /
 title: "Hello There!"
 author_profile: true 
