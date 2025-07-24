@@ -18,7 +18,8 @@ Research Interests
 - Computational Physics 
 - Soft Condensed Matter 
 - Biophysics
-
+  
+<h2 id="education">Education</h2>
 Education
 ======
 * **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb. 2024)
@@ -41,6 +42,7 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+<h2 id="research-experiences">Research Experiences</h2>
 Research Experiences
 ======
 * **Particle Deformation in Microfluidic Channel**????? – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
@@ -52,6 +54,7 @@ Research Experiences
   * Analyzing 60 papers in 3 days to meet a critical deadline.
   * Contributed by summarizing and categorizing relevant findings.
 
+<h2 id="skills">Skills</h2>
 Skills
 ======
 * **Simulation Softwares**
@@ -77,6 +80,7 @@ Skills
   * English: Fluent
   * Arabic: Familiar
 
+<h2 id="courses">Courses</h2>
 Courses
 ======
  * **Machine Learning Scientist in Python**
