@@ -19,9 +19,9 @@ Research Interests
 - Soft Condensed Matter 
 - Biophysics
   
-<h2 id="education">Education</h2>
 Education
 ======
+0
 * **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb. 2024)
   * GPA: 17.6/20 (3.79/4.0)
   * Thesis title: *Investigation of particle geometry and inhomogeneity on the dynamics in microfluidic domains.*
