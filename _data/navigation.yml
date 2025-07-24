@@ -23,7 +23,7 @@ main:
     url: /about/#Skills
 
   - title: "Courses"
-    url: /about.html/#Courses
+    url: /about/#Courses
     
   - title: "Portfolio"
     url: /portfolio/  
