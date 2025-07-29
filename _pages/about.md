@@ -43,7 +43,7 @@ Talks
 
 Research Experiences
 ======
-* **Particle Deformation in Microfluidic Channel**????? – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
+* **Numerical study of particle deformation with different Young's modulus during passage through microchannels. – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
   * Guidance on master’s thesis development and research methodologies.
   * Troubleshooting and optimizing computer problems and simulations.
 * **Particle Shape effect on its Motion in Microfluidic Channel** – Seminar course with perfect grade. (May 2022)
