@@ -43,12 +43,12 @@ Talks
 
 Research Experiences
 ======
-* **Numerical study of particle deformation with different Young's modulus during passage through microchannels.** – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
+* **Numerical investigation of the effect of shape and stiffness on the effective elastic modulus and dynamics of microparticles.** – Mentored a junior physics MS student. (Aug. 2024 – Jan. 2025)
   * Guidance on master’s thesis development and research methodologies.
   * Troubleshooting and optimizing computer problems and simulations.
-* **Particle Shape effect on its Motion in Microfluidic Channel** – Seminar course with perfect grade. (May 2022)
+* **Particle shape effect on its Motion in Microfluidic Channel.** – Seminar course with perfect grade. (May 2022)
   * A literature review to identify key research trends for my thesis
-* **Medical Applications of Laser** – Informal Contribution as a research Assistant. (May 2021)
+* **Medical applications of laser.** – Informal Contribution as a research Assistant. (May 2021)
   * Analyzing 60 papers in 3 days to meet a critical deadline.
   * Contributed by summarizing and categorizing relevant findings.
 
