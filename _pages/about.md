@@ -58,8 +58,8 @@ Skills
   * COMSOL Multiphysics (CFD)
   * Familiar: OpenFOAM, AutoCAD
 * **Programming Languages**
-  * Python
-  * Familiar: Fortran, C++, Matlab, Web Design
+  * Python, cpp
+  * Familiar: Fortran, Matlab, Web Design
 * **Typesetting**
   * LaTeX
   * Microsoft Office
