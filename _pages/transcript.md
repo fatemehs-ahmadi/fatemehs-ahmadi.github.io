@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 permalink: /transcript/
 title: "Transcript"
 author_profile: true
@@ -7,6 +7,7 @@ redirect_from:
   - /md/
   - /transcript.html
 ---
+{% include toc %}
 
 Master’s Transcript:
 ======
