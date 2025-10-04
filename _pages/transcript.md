@@ -1,16 +1,13 @@
 ---
 layout: archive
-permalink: /
+permalink: /transcript/
 title: "Transcript"
 author_profile: true
 redirect_from: 
   - /md/
   - /transcript.html
 ---
-
 {% include toc %}
-
-### Table 2
 
 | Header1 | Header2 | Header3 | Header4 |
 |:--------|:-------|:--------|:--------|
