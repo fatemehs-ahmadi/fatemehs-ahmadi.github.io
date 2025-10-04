@@ -31,8 +31,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  #- title: "Guide"
-    #url: /markdown/
+  - title: "Guide"
+    url: /markdown/
   #- title: "Teaching"
     #url: /teaching/         
   #- title: "Blog Posts"
