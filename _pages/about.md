@@ -29,6 +29,9 @@ Education
 * **BS in Physics** – [Shahed University](https://en.shahed.ac.ir/), Tehran, Iran (Sep. 2016 – Jul. 2021)
   * GPA: 15.39/20 (3.08/4.0)
 
+
+You can view my academic transcripts [here](/transcript/)
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
