@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 permalink: /transcript/
 title: "Transcript"
 author_profile: true
