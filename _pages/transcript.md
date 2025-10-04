@@ -11,7 +11,7 @@ redirect_from:
 
 ##Master’s Transcript:
 
-|         |        |         |         ||         | 
+|          |         |          |          |          | 
 |:--------:|:-------:|:--------:|:--------:|:--------:|
 | Advanced Solid State Physics 1   | Advanced Quantum Mechanics 1   | Advanced Statistical Mechanics 1   | Superconductivity & Superfluity   | Advanced Solid State Lab 1   |
 | Advanced Solid State Physics 2   | Advanced Electro-Dynamics 1    | Computational Physics              | Advanced Surface Physics 1        | Seminar                      |
