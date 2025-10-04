@@ -1,6 +1,5 @@
 ---
-permalink: /trasncript/
-title: "Trasncript"
+title: "Transcript"
 author_profile: true
 redirect_from: 
   - /md/
