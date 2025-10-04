@@ -9,28 +9,42 @@ redirect_from:
 
 {% include toc %}
 
-## Locations of key files/directories
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
 ### Table 2
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
+| General Mathematics 1   | cell2   | cell3   |
+| General Mathematics 2   | cell5   | cell6   |
 |-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Differential Equations   | cell2   | cell3   |
+| General Physics 1   | cell5   | cell6   |
+| General Physics 2   | cell2   | cell3   |
+| General Physics 3   | cell5   | cell6   |
+|-----------------------------|
+| General Physics 4   | cell2   | cell3   |
+| General Physics Lab 1   | cell5   | cell6   |
+| General Physics Lab 2   | cell2   | cell3   |
+| General Physics Lab 3   | cell5   | cell6   |
+|-----------------------------|
+| General Physics Lab 4   | cell2   | cell3   |
+| General Chemistry 1   | cell5   | cell6   |
+| General Chemistry Lab 1   | cell2   | cell3   |
+| Computer Programming  | cell5   | cell6   |
+|-----------------------------|
+| Machine Workshop   | cell2   | cell3   |
+| Electronic Workshop   | cell5   | cell6   |
+| Physics of semiconductor components 2   | cell2   | cell3   |
+| Superconductivity and its applications  | cell5   | cell6   |
+|-----------------------------|
+| Electronics 1   | cell2   | cell3   |
+| *   | cell5   | cell6   |
+| *  | cell2   | cell3   |
+| *  | cell5   | cell6   |
+|-----------------------------|
+| *   | cell2   | cell3   |
+| *   | cell5   | cell6   |
+| *  | cell2   | cell3   |
+| *  | cell5   | cell6   |
 
 
 
@@ -40,7 +54,4 @@ ll5   | cell6   |
 
 
 
-**Footnotes**
-
-The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
 
