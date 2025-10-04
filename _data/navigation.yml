@@ -25,19 +25,21 @@ main:
   - title: "Courses"
     url: /#courses
 
-- title: "Transcript"
-    url: /transcript/ 
-  #- title: "Portfolio"
-  # url: /portfolio/  
+  - title: "Transcript"
+    url: /transcript/
 
-  #- title: "CV"
-  #  url: /cv-json/
+  # - title: "Portfolio"
+  #   url: /portfolio/  
+
+  # - title: "CV"
+  #   url: /cv-json/
     
-  #- title: "Guide"
-  #  url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
   
-  #- title: "Teaching"
-  #  url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
   
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
