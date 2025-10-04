@@ -1,19 +1,19 @@
 ---
 layout: archive
 permalink: /transcript/
-title: "Transcript"
+title: ""
 author_profile: true
 redirect_from: 
   - /md/
   - /transcript.html
 ---
 
-Master’s Transcript:
+Master’s Transcript
 ======
 
 | General Courses | Compulsory Specialized Courses | Elective Specialized Courses |
 |:--------:|:-------:|:-------:|
-| Advanced Statistical Mechanics 1 | Advanced Solid State Physics 1    | Superconductivity & Superfluity   |
+| Advanced Statistical Mechanics 1 | Advanced Solid State Physics 1    | Superconductivity & superfluidity   |
 | Advanced Electro-Dynamics 1      | Computational Physics             | Advanced Surface Physics 1        |
 | Advanced Quantum Mechanics 1     | Advanced Solid State Lab 1        | Advanced Solid State Physics 2    |
 
