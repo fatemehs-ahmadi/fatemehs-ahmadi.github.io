@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Transcript"
 author_profile: true
