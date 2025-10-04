@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /transcript
+permalink: /_pages/transcript
 title: "Transcript"
 author_profile: true
 redirect_from: 
