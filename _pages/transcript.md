@@ -7,7 +7,7 @@ redirect_from:
   - /md/
   - /transcript.html
 ---
-toc: false
+
 Master’s Transcript:
 ======
 
