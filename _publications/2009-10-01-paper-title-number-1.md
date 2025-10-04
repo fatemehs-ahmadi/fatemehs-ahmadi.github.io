@@ -2,14 +2,14 @@
 title: "Geometry-Driven Segregation in Periodically Textured Microfluidic Channels"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+!<---permalink: /publication/2009-10-01-paper-title-number-1 --->
 excerpt: 'Under revision'
 date: 2025-12-01
 venue: 'Physical Review Fluids'
 slidesurl: ''
 paperurl: 'http://fatemehs-ahmadi.github.io/files/paper1.pdf'
 bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
-citation: 'Ahmadi, F.S., Hamzehpour, H. &  Shaebani, R. (2025). &quot; Geometry-Driven Segregation in Periodically Textured Microfluidic Channels.&quot; <i>Journal 1</i>. 1(1).'
+citation: "Ahmadi, F.S., Hamzehpour, H., and Shaebani, R. (2025). Geometry-Driven Segregation in Periodically Textured Microfluidic Channels. <i>Physical Review Fluids</i>, 10(9), 1–10."
 ---
 We investigate the transport dynamics of elongated microparticles in microchannel flows. While smooth-walled channels preserve the dependence of particle trajectories on initial orientation and
  lateral position, we show that introducing periodically textured walls can trigger robust alignment of the particle along the channel centerline. This geometry-driven alignment arises from repeated
