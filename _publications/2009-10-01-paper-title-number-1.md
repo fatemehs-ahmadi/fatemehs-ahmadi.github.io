@@ -7,7 +7,7 @@ excerpt: 'Under revision'
 date: 2025-12-01
 venue: 'Physical Review Fluids'
 
-paperurl: '[http://fatemehs-ahmadi.github.io/files/paper1.pdf](https://www.researchgate.net/publication/390600885_Elongation-Induced_Segregation_in_Periodically_Textured_Microfluidic_Channels?_sg%5B0%5D=bZ_Fo6zspdMb8obiSlZK0IkOkCpAWiGBnVY2npBjci9tWz6jkbYmZI195AJ2bYy3j8G2OiBJ7vQ6aP85yS7mGqdYB0kW0aX4ieo8R-lq.wiOcnsr3zcVEQDycO5qiQpq_riHWBb2NTPcHpPcHTx9zDZ0R5neKToMXazHKcNxCyQFjU-jaM-KW0M1TeBlXOQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19)'
+paperurl: 'https://www.researchgate.net/publication/390600885_Elongation-Induced_Segregation_in_Periodically_Textured_Microfluidic_Channels?_sg%5B0%5D=bZ_Fo6zspdMb8obiSlZK0IkOkCpAWiGBnVY2npBjci9tWz6jkbYmZI195AJ2bYy3j8G2OiBJ7vQ6aP85yS7mGqdYB0kW0aX4ieo8R-lq.wiOcnsr3zcVEQDycO5qiQpq_riHWBb2NTPcHpPcHTx9zDZ0R5neKToMXazHKcNxCyQFjU-jaM-KW0M1TeBlXOQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19'
 bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
 citation: "Ahmadi, F.S., Hamzehpour, H., and Shaebani, R. (2025). Geometry-Driven Segregation in Periodically Textured Microfluidic Channels. <i>Physical Review Fluids</i>, 10(9), 1–10."
 ---
