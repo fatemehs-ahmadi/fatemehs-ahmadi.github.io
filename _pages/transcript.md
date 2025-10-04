@@ -7,7 +7,6 @@ redirect_from:
   - /md/
   - /transcript.html
 ---
-{% include toc %}
 
 Master’s Transcript:
 ======
