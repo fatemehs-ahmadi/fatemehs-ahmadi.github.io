@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: "Transcript"
 author_profile: true
 redirect_from: 
