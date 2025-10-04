@@ -8,7 +8,6 @@ redirect_from:
 ---
 {% include toc %}
 
-##Bachelor’s Transcript
 | Fundamental Courses | Compulsory Specialized Courses | Elective Courses | General Education Courses | 
 |:--------:|:-------:|:--------:|:--------:|
 | General Mathematics 1   | Mathematical Physics 1   | English Language for Physicists   | Human in Islam   |
