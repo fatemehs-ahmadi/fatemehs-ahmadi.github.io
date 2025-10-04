@@ -1,3 +1,4 @@
+<!---
 ---
 title: "Geometry-Driven Segregation in Periodically Textured Microfluidic Channels"
 collection: publications
@@ -18,3 +19,4 @@ We investigate the transport dynamics of elongated microparticles in microchanne
  relative texture wavelength, with an optimal range for maximal effect. While the observed alignment behavior is not limited to low Reynolds numbers, the characteristic alignment length scale diverges
  as the Reynolds number increases toward the turbulent flow regime. These findings offer a predictive framework for designing microfluidic devices that passively sort or focus anisotropic particles, with
  implications for soft matter transport, biophysical flows, and microfluidic engineering.
+-->
