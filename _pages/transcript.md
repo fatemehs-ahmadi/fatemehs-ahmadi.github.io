@@ -11,6 +11,7 @@ redirect_from:
 
 Master’s Transcript:
 ======
+
 | | | | | |
 |:--------:|:-------:|:--------:|:--------:|:--------:|
 | Advanced Solid State Physics 1   | Advanced Quantum Mechanics 1   | Advanced Statistical Mechanics 1   | Superconductivity & Superfluity   | Advanced Solid State Lab 1   |
@@ -19,6 +20,7 @@ Master’s Transcript:
 
 Bachelor’s Transcript
 ======
+
 | Fundamental Courses | Compulsory Specialized Courses | Elective Courses | General Education Courses | 
 |:--------|:-------|:--------|:--------|
 | General Mathematics 1     | Mathematical Physics 1                       | English Language for Physicists          | Engineering Economics                                       |        
