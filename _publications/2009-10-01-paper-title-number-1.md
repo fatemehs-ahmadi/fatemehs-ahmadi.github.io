@@ -5,10 +5,10 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025
-venue: 'Journal'
-<!---slidesurl: 'http://fatemehs-ahmadi.github.io/files/F-Ahmadi_thesisdefense.pdf'-->
-<!---paperurl: 'http://fatemehs-ahmadi.github.io/files/paper1.pdf'-->
-<!---bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'-->
+venue: 'Physical Review Fluids'
+slidesurl: 'http://fatemehs-ahmadi.github.io/files/F-Ahmadi_thesisdefense.pdf'
+paperurl: 'http://fatemehs-ahmadi.github.io/files/paper1.pdf'
+bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
 citation: 'Ahmadi, F.S., Hamzehpour, H. &  Shaebani, R. (2025). &quot; Geometry-Driven Segregation in Periodically Textured Microfluidic Channels.&quot; <i>Journal 1</i>. 1(1).'
 ---
 We investigate the transport dynamics of elongated microparticles in microchannel flows. While smooth-walled channels preserve the dependence of particle trajectories on initial orientation and
