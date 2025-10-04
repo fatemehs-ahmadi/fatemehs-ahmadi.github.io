@@ -7,6 +7,11 @@ redirect_from:
 ---
 {% include toc %}
 
+|:--------|:-------|:--------|:--------||:--------|
+| Advanced Solid State Physics 1   | Advanced Quantum Mechanics 1   | Advanced Statistical Mechanics 1   | Superconductivity & Superfluity   | Advanced Solid State Lab 1   |
+| Advanced Solid State Physics 2   | Advanced Electro-Dynamics 1    | Computational Physics              | Advanced Surface Physics 1        | Seminar                      |
+|-----------------------------|
+
 | Fundamental Courses | Compulsory Specialized Courses | Elective Courses | General Education Courses | 
 |:--------|:-------|:--------|:--------|
 | General Mathematics 1     | Mathematical Physics 1                       | English Language for Physicists          | Engineering Economics                                       |        
@@ -26,12 +31,12 @@ redirect_from:
 | Machine Workshop          | Solid State Physics 1                        | -                                        | History of Imamat                                           |
 | Electronic Workshop       | Solid State Physics Lab 1                    | -                                        | Familiarity with the culture and values ​​of sacred defence   |
 | -                         | -                                            | -                                        | Imam Khomeini's Political Thought                           |
-
-
-
-| *   | *   | -   |    |
 |-----------------------------|
-| *   | *   | cell2   | cell3   |
+
+
+
+
+
 
 
 
