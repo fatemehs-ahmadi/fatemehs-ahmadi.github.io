@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Under revision'
-date: 2025
+date: 2025-12-01
 venue: 'Physical Review Fluids'
 slidesurl: ''
 paperurl: 'http://fatemehs-ahmadi.github.io/files/paper1.pdf'
