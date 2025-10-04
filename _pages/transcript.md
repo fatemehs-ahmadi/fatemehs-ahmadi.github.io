@@ -19,7 +19,7 @@ Master’s Transcript:
 Bachelor’s Transcript
 ======
 | Fundamental Courses | Compulsory Specialized Courses | Elective Courses | General Education Courses | 
-|:--------:|:-------|:--------:|:--------:|
+|:--------|:-------|:--------|:--------|
 | General Mathematics 1     | Mathematical Physics 1                       | English Language for Physicists          | Engineering Economics                                       |        
 | General Mathematics 2     | Mathematical Physics 2                       | Superconductivity and its applications   | Entrepreneurship                                            |
 | Differential Equations    | Thermodynamics and Statistical Mechanics 1   | Physics of semiconductor components 1    | Philosophy of Ethics                                        |
