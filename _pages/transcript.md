@@ -8,8 +8,9 @@ redirect_from:
 ---
 {% include toc %}
 
-| Header1 | Header2 | Header3 | Header4 |
-|:--------|:-------|:--------|:--------|
+##Bachelor’s Transcript
+| Fundamental Courses | Compulsory Specialized Courses | Elective Courses | General Education Courses | 
+|:--------:|:-------:|:--------:|:--------:|
 | General Mathematics 1   | Mathematical Physics 1   | English Language for Physicists   | Human in Islam   |
 | General Mathematics 2   | Mathematical Physics 2   | Superconductivity and its applications   | Practical Mysticism in Islam   |
 | Differential Equations   | Thermodynamics and Statistical Mechanics 1   | Physics of semiconductor components 1   | Social and Political Rights in Islam   |
