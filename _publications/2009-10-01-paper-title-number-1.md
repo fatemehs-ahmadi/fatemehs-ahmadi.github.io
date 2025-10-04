@@ -3,10 +3,10 @@ title: "Geometry-Driven Segregation in Periodically Textured Microfluidic Channe
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2025
 venue: 'Physical Review Fluids'
-slidesurl: 'http://fatemehs-ahmadi.github.io/files/F-Ahmadi_thesisdefense.pdf'
+slidesurl: ''
 paperurl: 'http://fatemehs-ahmadi.github.io/files/paper1.pdf'
 bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
 citation: 'Ahmadi, F.S., Hamzehpour, H. &  Shaebani, R. (2025). &quot; Geometry-Driven Segregation in Periodically Textured Microfluidic Channels.&quot; <i>Journal 1</i>. 1(1).'
