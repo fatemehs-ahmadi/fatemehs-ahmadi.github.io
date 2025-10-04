@@ -3,15 +3,15 @@ title: "Transcript"
 author_profile: true
 redirect_from: 
   - /md/
-  - /trasncript.html
+  - /transcript.html
 ---
 
 {% include toc %}
 
 ### Table 2
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
+| Header1 | Header2 | Header3 | Header4 |
+|:--------|:-------:|--------:|--------:|
 | General Mathematics 1   | Mathematical Physics 1   | English Language for Physicists   | Human in Islam   |
 | General Mathematics 2   | Mathematical Physics 2   | Superconductivity and its applications   | Practical Mysticism in Islam   |
 |-----------------------------|
