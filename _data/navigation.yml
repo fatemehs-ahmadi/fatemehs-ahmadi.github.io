@@ -21,15 +21,17 @@ main:
 
   - title: "Research Experiences"
     url: /#research-experiences
-
+    
+  - title: "Projects"
+    url: /portfolio/  
+    
   - title: "Skills"
     url: /#skills
 
   - title: "Courses"
     url: /#courses
 
-  - title: "Portfolio"
-    url: /portfolio/  
+
 
   # - title: "CV"
   #   url: /cv-json/
