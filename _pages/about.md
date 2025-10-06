@@ -57,7 +57,7 @@ Research Experiences
 
 Projects
 ======
-  <ul>{% for post in site.portfolio reversed %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
