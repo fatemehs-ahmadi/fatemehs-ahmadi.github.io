@@ -28,7 +28,7 @@ main:
   - title: "Courses"
     url: /#courses
 
-   - title: "Portfolio"
+  - title: "Portfolio"
     url: /portfolio/  
 
   # - title: "CV"
