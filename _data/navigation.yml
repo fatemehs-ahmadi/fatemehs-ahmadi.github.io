@@ -23,7 +23,7 @@ main:
     url: /#research-experiences
     
   - title: "Projects"
-    url: /projects/  
+    url: /#projects  
     
   - title: "Skills"
     url: /#skills
