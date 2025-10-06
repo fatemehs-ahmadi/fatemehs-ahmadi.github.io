@@ -58,8 +58,9 @@ Research Experiences
 Projects
 ======
 * **iq_fft_processor**
-  * A Qt C++ application that reads binary IQ signal files, processes them in 30,000-sample blocks, computes 8192-point FFT spectra, and visualizes results in real-time charts.
+  * A Qt C++ application that reads binary IQ signal files, processes them, and visualizes results in real-time charts.
   * [GitHub](https://github.com/fatemehs-ahmadi/iq_fft_processor)
+
 Skills
 ======
 * **Simulation Softwares**
