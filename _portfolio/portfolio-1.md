@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[iq_fft_processor](https://github.com/fatemehs-ahmadi/iq_fft_processor)"
+excerpt: "Short description of portfolio item number "
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A Qt C++ application that reads binary IQ signal files, processes them in 30,000-sample blocks, computes 8192-point FFT spectra, and visualizes results in real-time charts.
