@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "CV"
+title                    : "Fatemeh S. Ahmadi"
 title_separator          : "-"
 name                     : &name "Fatemeh S. Ahmadi"
 description              : &description "personal description"
