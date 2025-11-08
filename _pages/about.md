@@ -13,11 +13,13 @@ I'm **Fatemeh S. Ahmadi**, my passion is research, and I love coding. I am curre
 
 Research Interests
 ======
+- Biophysics
+- Cancer Research
 - Microfluidics  
 - Fluid Dynamics  
 - Computational Physics 
-- Soft Condensed Matter 
-- Biophysics
+
+
   
 Education
 ======
@@ -64,7 +66,7 @@ Projects
 Skills
 ======
 * **Simulation Softwares**
-  * COMSOL Multiphysics (CFD)
+  * COMSOL Multiphysics
   * Familiar: OpenFOAM, AutoCAD
 * **Programming Languages**
   * Python, cpp
@@ -109,11 +111,12 @@ Courses
 
 Voluntary Works
 ======
-* **Accountant** – Local Pre-school, Tehran, Iran. (Sep. 2021 – Apr. 2022)
-  * Designed spreadsheets to track financial data, ensuring accuracy and organization.
-  * Prepared detailed financial reports to communicate budgetary performance.
-* **Founder and member of the Physics scientific association** – Shahed University, Tehran, Iran. (Sep. 2017 – Sep. 2018)
-* **Private physics tutor** – Local institute, Tehran, Iran. (2016)
+* **Elderly Care** – Local Community, Tehran, Iran (2022– present)
+  * Provided dedicated companionship and daily living assistance.
+* **Accountant** – Local Pre-school, Tehran, Iran. (2021 – 2022)
+  * Managed all financial tracking and reporting, ensuring data accuracy and clear communication of budgetary performance.
+* **Founder & Member of Physics Scientific Association** – Shahed University, Tehran, Iran. (2017 – 2018)
+* **Physics Tutor** – Local Community, Tehran, Iran. (2016 - 2017)
 
 References
 ======
