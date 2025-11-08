@@ -90,6 +90,9 @@ Skills
 
 Courses
 ======
+* **Understanding Prompt Engineering**
+   * Sep. 2025
+   * datacamp.com
  * **Machine Learning Scientist in Python**
    * Jan. 2025
    * datacamp.com
