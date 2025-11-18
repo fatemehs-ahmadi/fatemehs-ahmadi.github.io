@@ -49,25 +49,17 @@ Talks
 Research Experiences
 ======
 
-* **Research Mentor** | Shahed University, Tehran, Iran
-August 2024 – January 2025
-
+**Research Mentor** | Shahed University, Tehran, Iran | August 2024 – January 2025
 
 Mentored a Physics MSc student in research methodology and computational simulations for their thesis, “Numerical study of particle deformation with different Young’s modulus during passage through microchannels.” Guided the use of the Fluid Structure Interaction module in COMSOL Multiphysics software and supported thesis development.
 
-* **Research Assistant** 
-May 2021
-
-
-Provided research support for a Physics PhD candidate in conducting a comprehensive literature review on medical applications of lasers, by analysing and summarising relevant findings from numerous publications.
-
-* **Seminar course with perfect grade** | KNToosi University of Technology, Tehran, Iran
-May 2022
-
+**Seminar course with perfect grade** | KNToosi University of Technology, Tehran, Iran| May 2022
 
 Presented a literature review titled "Particle shape effect on its Motion in Microfluidic Channel," to identify key research trends for my thesis
 
+**Research Assistant** | May 2021
 
+Provided research support for a Physics PhD candidate in conducting a comprehensive literature review on medical applications of lasers, by analysing and summarising relevant findings from numerous publications.
 
 Projects
 ======
