@@ -52,15 +52,18 @@ Research Experiences
 * **Research Mentor** | Shahed University, Tehran, Iran
 August 2024 – January 2025
 
+
 Mentored a Physics MSc student in research methodology and computational simulations for their thesis, “Numerical study of particle deformation with different Young’s modulus during passage through microchannels.” Guided the use of the Fluid Structure Interaction module in COMSOL Multiphysics software and supported thesis development.
 
 * **Research Assistant** 
 May 2021
 
+
 Provided research support for a Physics PhD candidate in conducting a comprehensive literature review on medical applications of lasers, by analysing and summarising relevant findings from numerous publications.
 
 * **Seminar course with perfect grade** | KNToosi University of Technology, Tehran, Iran
 May 2022
+
 
 Presented a literature review titled "Particle shape effect on its Motion in Microfluidic Channel," to identify key research trends for my thesis
 
@@ -124,15 +127,19 @@ Courses
 Voluntary Works
 ======
 Elderly Care | Local Community, Tehran, Iran | 2022 – Present
+
 Providing dedicated companionship and daily living assistance.
  
 Accountant | Local Preschool, Tehran, Iran | 2021 – 2022
+
 Managed all financial tracking and reporting, ensuring data accuracy and clear communication of budgetary performance.
  
 Founder & Member |Physics Scientific Association, Shahed University, Tehran, Iran | 2017 – 2018
+
 Co-founded and managed a student-led organisation aimed at promoting scientific engagement beyond the standard curriculum by organising seminars and academic discussions.
  
 Physics Tutor | Local Community, Tehran, Iran | 2016 – 2017
+
 Designed and delivered personalised physics lessons to local students, focusing on strengthening foundational knowledge and problem-solving skills.
 
 References
