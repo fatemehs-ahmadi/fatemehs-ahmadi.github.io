@@ -49,7 +49,7 @@ Talks
 Research Experiences
 ======
 
-**Research Mentor** | Shahed University, Tehran, Iran | August 2024 – January 2025
+**Research Mentor** | Shahed University, Tehran, Iran (August 2024 – January 2025)
 
 Mentored a Physics MSc student in research methodology and computational simulations for their thesis, “Numerical study of particle deformation with different Young’s modulus during passage through microchannels.” Guided the use of the Fluid Structure Interaction module in COMSOL Multiphysics software and supported thesis development.
 
