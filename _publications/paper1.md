@@ -5,7 +5,7 @@ category: manuscripts
 
 excerpt: 'Under peer review in Physical Review Fluids'
 
-date: '2026--101'
+date: '2026--10--1'
 venue: 'Physical Review Fluids'
 citation: "Ahmadi, F.S., Hamzehpour, H., and Shaebani, R. (2025). Geometry-Driven Segregation in Periodically Textured Microfluidic Channels. <i>Physical Review Fluids</i>, 10(9), 1–10."
 
