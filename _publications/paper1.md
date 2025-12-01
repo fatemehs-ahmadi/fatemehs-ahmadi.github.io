@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 
 excerpt: 'Under peer review in Physical Review Fluids'
-date: 2025-12-01
+date: ''
 venue: ''
 
 paperurl: 'https://arxiv.org/abs/2504.05834'
