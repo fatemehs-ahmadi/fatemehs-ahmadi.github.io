@@ -9,7 +9,7 @@ venue: ''
 
 paperurl: 'https://arxiv.org/abs/2504.05834'
 bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
-citation: ""
+
 ---
 We investigate the transport dynamics of elongated microparticles in microchannel flows. While smooth-walled channels preserve the dependence of particle trajectories on initial orientation and
  lateral position, we show that introducing periodically textured walls can trigger robust alignment of the particle along the channel centerline. This geometry-driven alignment arises from repeated
