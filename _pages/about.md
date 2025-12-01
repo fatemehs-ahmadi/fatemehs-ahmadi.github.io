@@ -58,20 +58,20 @@ Research Experiences
 
 **Research Mentor** | Shahed University, Tehran, Iran (August 2024 – January 2025)
 
- * Title: Numerical study of particle deformation with different Young’s modulus during passage through microchannels.
+ * Title: *Numerical study of particle deformation with different Young’s modulus during passage through microchannels.*
  * Mentoring: Advised a Physics M.Sc. student on thesis research and methodology.
  * Technical Instruction: Diagnosed simulation issues and instructed on COMSOL’s FSI module, accelerating thesis completion.
 
 **Seminar Course (Grade 20/20)** | KNToosi University of Technology, Tehran, Iran| May 2022
 
- * Title: Particle shape effect on its motion in a microfluidic channel
+ * Title: *Particle shape effect on its motion in a microfluidic channel*
  * Research Synthesis: Conducted a literature review to map key research trends in microfluidic applications for cancer
  research and proposed future research directions.
  * Presentation: Presented findings to an audience of 60.
 
 **Research Assistant** | May 2021
 
- * Title: Medical Applications of Laser
+ * Title: *Medical Applications of Laser*
  * Collaboration & Teamwork: Collaborated with a Physics PhD candidate to conduct a comprehensive literature review.
  * Time Management: Classified findings to meet critical deadlines under time pressure.
  
@@ -79,7 +79,7 @@ Research Experiences
 Projects
 ======
 * **iq_fft_processor**
-  * A Qt C++ application that reads binary IQ signal files, processes them, and visualizes results in real-time charts.
+  * A Qt C++ application that reads binary IQ signal files, processes them, and visualises results in real-time charts.
   * [GitHub](https://github.com/fatemehs-ahmadi/iq_fft_processor)
 
 Skills
