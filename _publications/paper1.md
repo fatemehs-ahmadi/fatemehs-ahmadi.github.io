@@ -6,7 +6,7 @@ category: manuscripts
 excerpt: 'Under peer review in Physical Review Fluids'
 
 date: '2026--10--1'
-venue: 'Physical Review Fluids'
+venue: 'Under peer review in Physical Review Fluids'
 citation: ""
 
 paperurl: 'https://arxiv.org/abs/2504.05834'
