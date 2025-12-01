@@ -7,7 +7,7 @@ excerpt: 'Under peer review in Physical Review Fluids'
 
 date: '2026--10--1'
 venue: 'Under peer review in Physical Review Fluids'
-citation: ""
+citation: "Ahmadi, F.S., Hamzehpour, H., and Shaebani, R. (2025). Under peer review in Physical Review Fluids"
 
 paperurl: 'https://arxiv.org/abs/2504.05834'
 bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
