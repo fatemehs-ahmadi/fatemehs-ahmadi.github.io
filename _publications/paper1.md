@@ -7,11 +7,9 @@ excerpt: 'Under peer review in Physical Review Fluids'
 
 <!---date: '2026--101'
 venue: 'Physical Review Fluids'
-citation: "Ahmadi, F.S., Hamzehpour, H., and Shaebani, R. (2025). Geometry-Driven Segregation in Periodically Textured Microfluidic Channels. <i>Physical Review Fluids</i>, 10(9), 1–10."
+citation: "Ahmadi, F.S., Hamzehpour, H., and Shaebani, R. (2025). Geometry-Driven Segregation in Periodically Textured Microfluidic Channels. <i>Physical Review Fluids</i>, 10(9), 1–10."-->
 paperurl: 'https://arxiv.org/abs/2504.05834'
 bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
--->
-paperurl: 'https://arxiv.org/abs/2504.05834'
 
 
 ---
