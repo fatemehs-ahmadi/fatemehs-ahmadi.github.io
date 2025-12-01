@@ -6,7 +6,7 @@ category: manuscripts
 excerpt: 'Under peer review in Physical Review Fluids'
 
 date: '2026--10--1'
-venue: 'Under peer review in Physical Review Fluids'
+venue: ''
 citation: "Ahmadi, F.S., Hamzehpour, H., and Shaebani, R. (2025). Under peer review in Physical Review Fluids"
 
 paperurl: 'https://arxiv.org/abs/2504.05834'
