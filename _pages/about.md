@@ -30,10 +30,10 @@ Education
   * Supervisor: [Dr. H. Hamzehpour](https://scholar.google.com/citations?user=xM-0K-UAAAAJ&hl=en&oi=ao), Advisor: [Dr. R. Shaebani](https://scholar.google.com/citations?user=h3n1yp8AAAAJ&hl=en&oi=ao)
   * Key achievements:
     * Analytical Thinking: Investigated how particle geometry dictates transport dynamics in confined biological flows using Stokes flow with Poiseuille velocity profiles.
-   * Innovation: Established a predictive framework for passive particle segregation based on geometric parameters.
-   * Technical Proficiency: Developed advanced expertise in computational modelling using COMSOL Multiphysics (Fluid
+    * Innovation: Established a predictive framework for passive particle segregation based on geometric parameters.
+    * Technical Proficiency: Developed advanced expertise in computational modelling using COMSOL Multiphysics (Fluid
 Structure Interaction module) and data analysis with Python (pandas, NumPy, Matplotlib).
-   * Resilience & Problem-Solving: Optimised computational parameters to resolve persistent simulation crashes, ensuring project completion under challenging constraints.
+    * Resilience & Problem-Solving: Optimised computational parameters to resolve persistent simulation crashes, ensuring project completion under challenging constraints.
   
 * **B.Sc. in Physics** – [Shahed University](https://en.shahed.ac.ir/), Tehran, Iran (Sep. 2016 – Jul. 2021)
   * GPA: 15.39/20 (3.1/4.0)
