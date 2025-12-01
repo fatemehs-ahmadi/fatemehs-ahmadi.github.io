@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-I'm **Fatemeh S. Ahmadi**, my passion is research, and I love coding. I am currently looking for a PhD position and would love to hear from you if you are hiring. Here is my curriculum vitae:
+I'm **Fatemeh S. Ahmadi**, and what I like to do for life is research, and for fun is coding. I am currently looking for a PhD position and would love to hear from you if you are hiring. Here is my curriculum vitae:
 
 Research Interests
 ======
