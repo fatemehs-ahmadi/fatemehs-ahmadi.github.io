@@ -3,9 +3,9 @@ title: "Geometry-Driven Segregation in Periodically Textured Microfluidic Channe
 collection: publications
 category: manuscripts
 
-excerpt: 'Under revision'
+excerpt: 'Under peer review in Physical Review Fluids'
 date: 2025-12-01
-venue: 'Physical Review Fluids'
+venue: ''
 
 paperurl: 'https://arxiv.org/abs/2504.05834'
 bibtexurl: 'http://fatemehs-ahmadi.github.io/files/bibtex1.bib'
