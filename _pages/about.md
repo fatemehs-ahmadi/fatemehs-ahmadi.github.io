@@ -23,12 +23,20 @@ Research Interests
   
 Education
 ======
-* **MS in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb. 2024)
+* **M.Sc. in Condensed Matter Physics** (1st rank) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb. 2024)
   * GPA: 17.6/20 (3.8/4.0)
   * Thesis title: *Investigation of particle geometry and inhomogeneity on the dynamics in microfluidic domains.*
+  * Thesis grade: 20/20
   * Supervisor: [Dr. H. Hamzehpour](https://scholar.google.com/citations?user=xM-0K-UAAAAJ&hl=en&oi=ao), Advisor: [Dr. R. Shaebani](https://scholar.google.com/citations?user=h3n1yp8AAAAJ&hl=en&oi=ao)
+  Key achievements:
+  * Analytical Thinking: Investigated how particle geometry dictates transport dynamics in confined biological flows using Stokes flow with Poiseuille velocity profiles.
+ * Innovation: Established a predictive framework for passive particle segregation based on geometric parameters.
+ * Technical Proficiency: Developed advanced expertise in computational modelling using COMSOL Multiphysics (Fluid
+Structure Interaction module) and data analysis with Python (pandas, NumPy, Matplotlib).
+ * Resilience & Problem-Solving: Optimised computational parameters to resolve persistent simulation crashes, ensuring
+ project completion under challenging constraints.
   
-* **BS in Physics** – [Shahed University](https://en.shahed.ac.ir/), Tehran, Iran (Sep. 2016 – Jul. 2021)
+* **B.Sc. in Physics** – [Shahed University](https://en.shahed.ac.ir/), Tehran, Iran (Sep. 2016 – Jul. 2021)
   * GPA: 15.39/20 (3.1/4.0)
 
 
@@ -51,15 +59,23 @@ Research Experiences
 
 **Research Mentor** | Shahed University, Tehran, Iran (August 2024 – January 2025)
 
-Mentored a Physics MSc student in research methodology and computational simulations for their thesis, “Numerical study of particle deformation with different Young’s modulus during passage through microchannels.” Guided the use of the Fluid Structure Interaction module in COMSOL Multiphysics software and supported thesis development.
+ * Title: Numerical study of particle deformation with different Young’s modulus during passage through microchannels.
+ * Mentoring: Advised a Physics M.Sc. student on thesis research and methodology.
+ * Technical Instruction: Diagnosed simulation issues and instructed on COMSOL’s FSI module, accelerating thesis completion.
 
-**Seminar course with perfect grade** | KNToosi University of Technology, Tehran, Iran| May 2022
+**Seminar Course (Grade 20/20)** | KNToosi University of Technology, Tehran, Iran| May 2022
 
-Presented a literature review titled "Particle shape effect on its Motion in Microfluidic Channel," to identify key research trends for my thesis
+ * Title: Particle shape effect on its motion in a microfluidic channel
+ * Research Synthesis: Conducted a literature review to map key research trends in microfluidic applications for cancer
+ research and proposed future research directions.
+ * Presentation: Presented findings to an audience of 60.
 
 **Research Assistant** | May 2021
 
-Provided research support for a Physics PhD candidate in conducting a comprehensive literature review on medical applications of lasers, by analysing and summarising relevant findings from numerous publications.
+ * Title: Medical Applications of Laser
+ * Collaboration & Teamwork: Collaborated with a Physics PhD candidate to conduct a comprehensive literature review.
+ * Time Management: Classified findings to meet critical deadlines under time pressure.
+ 
 
 Projects
 ======
@@ -94,46 +110,64 @@ Skills
 
 Courses
 ======
+ * **Theory of Living Matter**
+   * Since 2022
+   * Seminar Series (TLM-cambridge)
 * **Understanding Prompt Engineering**
    * Sep. 2025
-   * datacamp.com
+   * DataCamp
  * **Machine Learning Scientist in Python**
    * Jan. 2025
-   * datacamp.com
+   * DataCamp
  * **Data Analyst in Python**
    * Dec. 2024
-   datacamp.com
+   * DataCamp
  * **Molecular Foundations of Medicine**
    * Nov. 2024
-   * StanfordOnline (edX.org)
- * **Improve Your English Communication Skills Specialization**
+   * StanfordOnline (EdX)
+ * **Improve Your English Communication Skills**
    * Oct. 2024
-   * Georgia Institute of Technology (coursera.org)
+   * Georgia Institute of Technology (Coursera)
  * **English Grammar and Style**
    * Sep. 2024
-   * The University of Queensland (edX.org)
- * **Theory of Living Matter**
-   * 2022 – PRESENT
-   * Seminar Series (tlm-cambridge.blog)
+   * The University of Queensland (EdX)
+
+Awards
+======
+
+ * **Graduated with First Rank in M.Sc. Program** | KNToosi University of Technology | Feb. 2024
+ * **Full tuition scholarship- M.Sc.** | National Entrance Exam Ranking |  Oct. 2021
+ * **Full tuition scholarship- B.Sc.** | National Entrance Exam Ranking |  Sep. 2016
 
 Voluntary Works
 ======
 
-Elderly Care | Local Community, Tehran, Iran | 2022 – Present
+Elderly Care | Local Community, Tehran, Iran | 2024 – Present
 
-Providing dedicated companionship and daily living assistance.
+Empathy & Compassion: Provided dedicated companionship and daily living assistance, demonstrating patience and interpersonal sensitivity.
+
+ Teaching Assistant | KNToosi University of Technology, Tehran, Iran | 2022
+ 
+ * Knowledge Transfer: Initiated problem-solving workshops for graduate courses ”Advanced Surface Physics” and ”Advanced Electro-Dynamics”.
+ * Communication: Generated detailed solution sets and visual aids to enhance student comprehension by clarifying
+ complex concepts.
  
 Accountant | Local Preschool, Tehran, Iran | 2021 – 2022
 
-Managed all financial tracking and reporting, ensuring data accuracy and clear communication of budgetary performance.
+ Accuracy: Arranged all financial tracking and reporting, ensuring data accuracy and clear communication of budgetary
+ performance.
  
 Founder & Member |Physics Scientific Association, Shahed University, Tehran, Iran | 2017 – 2018
 
-Co-founded and managed a student-led organisation aimed at promoting scientific engagement beyond the standard curriculum by organising seminars and academic discussions.
+ * Leadership & Initiative: Co-founded and managed a student-led organisation aimed at promoting scientific engagement
+ beyond the standard curriculum.
+ * Organisation & Project Management: Organised seminars and academic discussions, coordinating events and partici
+pant engagement.
  
 Physics Tutor | Local Community, Tehran, Iran | 2016 – 2017
 
-Designed and delivered personalised physics lessons to local students, focusing on strengthening foundational knowledge and problem-solving skills.
+ Adaptive Communication & Teaching: Designed and delivered personalised physics lessons to local students, focusing
+ on strengthening foundational knowledge and problem-solving skills.
 
 References
 ======
