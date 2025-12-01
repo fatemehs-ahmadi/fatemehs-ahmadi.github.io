@@ -24,7 +24,7 @@ Research Interests
 Education
 ======
 * **M.Sc. in Condensed Matter Physics** (1st Rank in Class) – [KNToosi University of Technology](https://en.kntu.ac.ir/), Tehran, Iran. (Oct. 2021 – Feb. 2024)
-  * GPA: 17.6/20 (3.8/4.0) * Summa Cum Laude Equivalent*
+  * GPA: 17.6/20 (3.8/4.0) *Summa Cum Laude Equivalent*
   * Thesis title: *Investigation of particle geometry and inhomogeneity on the dynamics in microfluidic domains.*
   * Thesis grade: 20/20
   * Supervisor: [Dr. H. Hamzehpour](https://scholar.google.com/citations?user=xM-0K-UAAAAJ&hl=en&oi=ao), Advisor: [Dr. R. Shaebani](https://scholar.google.com/citations?user=h3n1yp8AAAAJ&hl=en&oi=ao)
