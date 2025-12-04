@@ -160,8 +160,7 @@ Founder & Member |Physics Scientific Association, Shahed University, Tehran, Ira
 
  * Leadership & Initiative: Co-founded and managed a student-led organisation aimed at promoting scientific engagement
  beyond the standard curriculum.
- * Organisation & Project Management: Organised seminars and academic discussions, coordinating events and partici
-pant engagement.
+ * Organisation & Project Management: Organised seminars and academic discussions, coordinating events and participant engagement.
  
 Physics Tutor | Local Community, Tehran, Iran | 2016 – 2017
 
