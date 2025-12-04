@@ -56,13 +56,13 @@ Talks
 Research Experiences
 ======
 
-**Research Mentor** | Shahed University, Tehran, Iran (August 2024 – January 2025)
+**Research Mentor** | KNToosi University of Technology, Tehran, Iran | August 2024 – January 2025
 
  * Title: *Numerical study of particle deformation with different Young’s modulus during passage through microchannels.*
  * Mentoring: Advised a Physics M.Sc. student on thesis research and methodology.
  * Technical Instruction: Diagnosed simulation issues and instructed on COMSOL’s FSI module, accelerating thesis completion.
 
-**Seminar Course (Grade 20/20)** | KNToosi University of Technology, Tehran, Iran| May 2022
+**Seminar Course (Grade 20/20)** | KNToosi University of Technology, Tehran, Iran | May 2022
 
  * Title: *Particle shape effect on its motion in a microfluidic channel*
  * Research Synthesis: Conducted a literature review to map key research trends in microfluidic applications for cancer
