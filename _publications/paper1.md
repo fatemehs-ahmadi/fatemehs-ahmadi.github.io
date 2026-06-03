@@ -5,9 +5,9 @@ category: manuscripts
 
 excerpt: ''
 
-date: '2026--10--1'
-venue: ''
-citation: "Fatemeh S. Ahmadi, Hossein Hamzehpour, Reza Shaebani; Geometry-driven segregation in periodically textured microfluidic channels. Physics of Fluids 1 April 2026; 38 (4): 043611. https://doi.org/10.1063/5.0320693"
+date: '2026--04--1'
+venue: 'Physics of Fluids'
+citation: "Fatemeh S. Ahmadi, Hossein Hamzehpour, Reza Shaebani; Geometry-driven segregation in periodically textured microfluidic channels. Physics of Fluids 1 April 2026; 38 (4): 043611. [https://doi.org/10.1063/5.0320693](https://doi.org/10.1063/5.0320693)"
 
 paperurl: 'https://arxiv.org/abs/2504.05834'
 bibtexurl: 'https://github.com/fatemehs-ahmadi/fatemehs-ahmadi.github.io/blob/master/_publications/bibtex1.bibtex'
